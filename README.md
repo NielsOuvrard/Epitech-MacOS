@@ -1,7 +1,3 @@
----
-title: Epitech sur MacOS
----
-
 # Table of Contents {#table-of-contents .TOC-Heading}
 
 [Problèmes avec MacOS [2](#problèmes-avec-macos)](#problèmes-avec-macos)
