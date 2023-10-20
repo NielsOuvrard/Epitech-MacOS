@@ -1,42 +1,24 @@
 # Epitech sur MacOS
 
-# Table of Contents {#table-of-contents .TOC-Heading}
-
-[Problèmes avec MacOS [2](#problèmes-avec-macos)](#problèmes-avec-macos)
-
-[Les difficultées que vous allez rencontrer :
-[2](#les-difficultées-que-vous-allez-rencontrer)](#les-difficultées-que-vous-allez-rencontrer)
-
-[Ce que je vous recommande :
-[2](#ce-que-je-vous-recommande)](#ce-que-je-vous-recommande)
-
-[Installation : [2](#installation)](#installation)
-
-[Solution 1 : Docker [3](#solution-1-docker)](#solution-1-docker)
-
-[Points positifs : [3](#points-positifs)](#points-positifs)
-
-[Points Négatifs : [3](#points-négatifs)](#points-négatifs)
-
-[Installation : [3](#installation-1)](#installation-1)
-
-[Solution 2 : Machine Virtuelle (VM)
-[4](#solution-2-machine-virtuelle-vm)](#solution-2-machine-virtuelle-vm)
-
-[Points Positifs : [4](#points-positifs-1)](#points-positifs-1)
-
-[Points Négatifs : [4](#points-négatifs-1)](#points-négatifs-1)
-
-[Installation : [4](#installation-2)](#installation-2)
-
-[Solution 3 : Machine à distance / Server
-[5](#solution-3-machine-à-distance-server)](#solution-3-machine-à-distance-server)
-
-[Points positifs : [5](#points-positifs-2)](#points-positifs-2)
-
-[Points Négatifs : [5](#points-négatifs-2)](#points-négatifs-2)
-
-[Installation : [5](#installation-3)](#installation-3)
+## Table of Contents
+- [Epitech sur MacOS](#epitech-sur-macos)
+  - [Table of Contents](#table-of-contents)
+- [Problèmes avec MacOS](#problèmes-avec-macos)
+  - [Les difficultées que vous allez rencontrer :](#les-difficultées-que-vous-allez-rencontrer)
+  - [Ce que je vous recommande :](#ce-que-je-vous-recommande)
+  - [Installation :](#installation)
+- [Solution 1 : Docker](#solution-1--docker)
+  - [Points positifs :](#points-positifs-)
+  - [Points Négatifs :](#points-négatifs-)
+  - [Installation :](#installation-1)
+- [Solution 2 : Machine Virtuelle (VM)](#solution-2-machine-virtuelle-vm)
+  - [Points Positifs :](#points-positifs)
+  - [Points Négatifs :](#points-négatifs--1)
+  - [Installation :](#installation-)
+- [Solution 3 : Machine à distance / Server](#solution-3-machine-à-distance--server)
+  - [Points positifs :](#points-positifs--1)
+  - [Points Négatifs :](#points-négatifs--2)
+  - [Installation :](#installation--1)
 
 # Problèmes avec MacOS
 
